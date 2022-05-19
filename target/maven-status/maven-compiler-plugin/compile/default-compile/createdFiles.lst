@@ -1,5 +1,0 @@
-com/brihaspathee/aphrodite/schema/validation/JSONSchemaValidator.class
-com/brihaspathee/aphrodite/schema/validation/JSONSchemaObject$JSONSchemaObjectBuilder.class
-com/brihaspathee/aphrodite/exception/AphroditeApiValidationException$AphroditeApiValidationExceptionBuilder.class
-com/brihaspathee/aphrodite/exception/AphroditeApiValidationException.class
-com/brihaspathee/aphrodite/schema/validation/JSONSchemaObject.class
